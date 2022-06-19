@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace API.Controllers
 {
-    [Route("users")]
+    [Route("v1/usuario")]
     [ApiController]
     public class UserController : ControllerBase
     {
